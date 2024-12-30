@@ -120,14 +120,14 @@ Compounds with zero or near-zero energy above the hull are predicted as stable o
 
 ### Formation Energy Predictions  
 - **True vs. Predicted Formation Energy Values**:  
-  ![Formation Energy Scatter Plot](figures/pred_v_true_f_e-eps-converted-to.pdf)  
+  ![Formation Energy Scatter Plot](figures/pred_v_true_f_e-eps-converted-to_1.png)  
 
 - **True vs. Predicted Formation Energy Values with Symmetry Information**:  
-  ![Formation Energy with Symmetry](figures/pred_v_true_f_e_2x2-eps-converted-to.pdf)  
+  ![Formation Energy with Symmetry](figures/pred_v_true_f_e_2x2-eps-converted-to_1.png)  
 
 ### Energy Above Hull Prediction  
 - **True vs. Predicted Energy Above Hull Values**:  
-  ![Energy Above Hull Scatter Plot](figures/pred_v_true_ehull-eps-converted-to.pdf)  
+  ![Energy Above Hull Scatter Plot](figures/pred_v_true_ehull-eps-converted-to_1.png)  
 
 ---
 

@@ -156,8 +156,6 @@ The results demonstrate that incorporating symmetry information significantly im
 
 These findings underscore the importance of detailed structural descriptors, such as space group data, in effectively capturing material properties. Furthermore, the model was extended to predict **energy above the hull**, an essential metric for assessing material stability. By leveraging chemical and crystallographic data, the model not only enhanced the accuracy of formation energy predictions but also offered insights into the crystallographic symmetries of specific chemical compounds.
 
-The generated chemical formulas from Mn, Ni, and O, created by combining these elements with subscripts permuted from integers 1 to 9, have the potential to form stable compounds with distinct space groups or geometrical arrangements of atoms. This hypothesis assumes that such stoichiometries may correspond to thermodynamically favorable configurations within the Mn-Ni-O compositional space.
-
 To further validate the stability of the materials predicted by our model, it is strongly recommended to perform simulations using **Density Functional Theory (DFT)**. This approach provides a reliable method for confirming thermodynamic stability and verifying the model's predictions.
 
 Additionally, efforts should be made to successfully perform **network dissection** on the deep learning model. While our initial attempt at network dissection was unsuccessful, refining this process could yield valuable insights into the internal representations learned by the model, thereby improving interpretability and transparency.
